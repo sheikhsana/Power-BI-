@@ -73,7 +73,7 @@ These filters allow users to explore the dashboard based on selected locations a
 
 Dashboard Preview
 
-![Sales Performance Dashboard](dashboard-screenshot.png)
+![Sales Performance Dashboard]("dashboard-screenshot.png.png")
 
 ---
  Key Insights
